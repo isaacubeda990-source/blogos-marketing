@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "BlogOS — Construye un blog que genera ingresos",
-  description: "El agente de IA que convierte tu conocimiento en un negocio digital. Genera ideas, escribe artículos con estructura probada, optimiza SEO y monetiza desde el día uno.",
+  description: "El agente de IA que convierte tu conocimiento en un negocio digital. Ideas, artículos SEO, calendario editorial y monetización — todo en español.",
   openGraph: {
     title: "BlogOS — Construye un blog que genera ingresos",
     description: "El agente de IA que convierte tu conocimiento en un negocio digital.",
